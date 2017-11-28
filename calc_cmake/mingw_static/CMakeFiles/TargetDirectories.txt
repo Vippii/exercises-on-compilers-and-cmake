@@ -1,0 +1,4 @@
+D:/Year2ComProject/Week2/calc_cmake/mingw_static/CMakeFiles/rebuild_cache.dir
+D:/Year2ComProject/Week2/calc_cmake/mingw_static/CMakeFiles/maths.dir
+D:/Year2ComProject/Week2/calc_cmake/mingw_static/CMakeFiles/calc.dir
+D:/Year2ComProject/Week2/calc_cmake/mingw_static/CMakeFiles/edit_cache.dir
