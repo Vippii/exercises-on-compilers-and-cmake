@@ -1,0 +1,3 @@
+D:/Year2ComProject/Week2/hello_cmake/build/CMakeFiles/hello.dir
+D:/Year2ComProject/Week2/hello_cmake/build/CMakeFiles/ALL_BUILD.dir
+D:/Year2ComProject/Week2/hello_cmake/build/CMakeFiles/ZERO_CHECK.dir
